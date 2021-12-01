@@ -1,0 +1,23 @@
+.cabecalho {
+    color:sandybrown;
+    font-weight: bold;
+    font-size: 28px;
+    ruby-align: space-around;
+    margin-top: 10px;
+    text-align: center;
+
+    padding: 5px;
+    background-color:rgb(200, 223, 200);
+} 
+
+.menuTodos {
+    color:sandybrown;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 16px;  /**  15  **/
+    text-align: center;
+}
+
+h4 {
+    font-weight: bold;
+}

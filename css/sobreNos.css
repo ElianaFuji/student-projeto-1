@@ -1,0 +1,31 @@
+html, body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home a {
+	text-transform: uppercase;
+    text-decoration: none;
+	color:darkslategrey;
+	font-weight: bold;
+	font-size: 18px;
+    margin: 0 40px 0px 25px;
+}
+
+.textoSobre {
+    width: 100%;  /* faixa toda */  
+    text-align: center;   
+    font-weight: bold;
+    font-size: 20px;
+    padding: 44px;    
+    margin: 120px 0px 0px 0px; 
+    background-color:papayawhip;
+}
+ 
+.fotoSobre {
+	width: 140px; 
+	margin: 0 auto;
+    background-color:palegreen;
+}
+ 

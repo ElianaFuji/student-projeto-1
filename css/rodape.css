@@ -1,0 +1,15 @@
+footer {
+    position: absolute;
+    bottom: 0px ;
+    width: 100%;
+}
+
+.logotipo {
+    width: 100%;  /* faixa toda */
+    text-align: center;  
+    font-weight: bold;
+    font-size: 0.9em;
+    padding: 7px;
+    background-color: DarkSalmon;
+}
+ 
